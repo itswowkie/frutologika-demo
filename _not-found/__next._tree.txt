@@ -1,0 +1,7 @@
+:HL["/frutologika-demo/_next/static/chunks/31gl7ceeqs9tg.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/0cr5bg9dwv26e.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/2pqgc1o-_hthv.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/1gp67x196km5d.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"tdxfD2Gc06AfVTXwypv8D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
