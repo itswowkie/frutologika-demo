@@ -11,4 +11,4 @@
 :HL["/frutologika-demo/_next/static/chunks/1gp67x196km5d.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
-0:{"b":"A0Vvr0BhJgptXRc3GAnzD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"NVw_Qv5n6wLuGXQcW2gi_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
