@@ -5,9 +5,11 @@
 :HL["/frutologika-demo/_next/static/chunks/43dskch4x7gl7.css","style"]
 :HL["/frutologika-demo/_next/static/media/3383ca8b946b84c9-s.p.3o02-8iknf6dl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/frutologika-demo/_next/static/media/9d9d8fde33b299ed-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/frutologika-demo/_next/static/chunks/08clfnn5wcsvc.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/0d-zzxozzgpq0.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/11ojk10szu2by.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/1azaog38vgf_3.css","style"]
 :HL["/frutologika-demo/_next/static/chunks/1gp67x196km5d.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"path","t":"c","k":"products/pear","s":["actions"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"admin","h":131168,"c":"$Q2"}]]
-0:{"b":"tPEVNPlS-ME1TMTgd_kXQ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"omSr8phAV2Rfg-gSqECXi","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
