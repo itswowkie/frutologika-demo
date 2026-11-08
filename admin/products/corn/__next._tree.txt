@@ -1,5 +1,5 @@
 :HL["/frutologika-demo/_next/static/chunks/31gl7ceeqs9tg.css","style"]
-:HL["/frutologika-demo/_next/static/chunks/3iqnsiui2ekem.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/2kaxfzl3fpcpz.css","style"]
 :HL["/frutologika-demo/_next/static/chunks/2pqgc1o-_hthv.css","style"]
 :HL["/frutologika-demo/_next/static/chunks/0spj7y1oy7xan.css","style"]
 :HL["/frutologika-demo/_next/static/chunks/43dskch4x7gl7.css","style"]
@@ -12,4 +12,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"path","t":"c","k":"products/corn","s":["actions"]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"admin","h":131168,"c":"$Q2"}]]
-0:{"b":"omSr8phAV2Rfg-gSqECXi","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"A0Vvr0BhJgptXRc3GAnzD","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
