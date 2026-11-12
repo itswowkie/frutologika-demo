@@ -1,11 +1,11 @@
 :HL["/frutologika-demo/_next/static/chunks/31gl7ceeqs9tg.css","style"]
-:HL["/frutologika-demo/_next/static/chunks/2kaxfzl3fpcpz.css","style"]
-:HL["/frutologika-demo/_next/static/chunks/36cncx2lz175f.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/1jgvgx7x2bx98.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/1m5o-6prjh880.css","style"]
 :HL["/frutologika-demo/_next/static/media/3383ca8b946b84c9-s.p.3o02-8iknf6dl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/frutologika-demo/_next/static/media/9d9d8fde33b299ed-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/frutologika-demo/_next/static/chunks/1gu1c0tiox9l7.css","style"]
+:HL["/frutologika-demo/_next/static/chunks/3-8iuk6q1jnkv.css","style"]
 :HL["/frutologika-demo/_next/static/chunks/2eo0lh2dgpx5f.css","style"]
 :HL["/frutologika-demo/_next/static/chunks/1gp67x196km5d.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"privacy","h":96,"c":"$Q2"}]]
-0:{"b":"8nhrn6mUJ9sEl_ieVCHSH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"BahNeEa0kDngskAyd9-pg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
