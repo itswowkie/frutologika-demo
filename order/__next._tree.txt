@@ -8,4 +8,4 @@
 :HL["/frutologika-demo/_next/static/chunks/1gp67x196km5d.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"order","h":96,"c":"$Q2"}]]
-0:{"b":"pVfLiulm-weJ5QVAeAVp4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"7ll420RxejIqpkMr0HxMn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
